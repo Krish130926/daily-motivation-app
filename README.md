@@ -1,4 +1,4 @@
-# daily-motivation-app
+# Daily-Motivation-App
 
 ## Project Description
 The Daily Motivation App is a simple, user-friendly web application designed to provide a fresh motivational quote each day, helping users find inspiration and positivity regularly. By displaying new quotes, the app addresses the common need for daily encouragement, particularly helpful for people seeking a quick boost in motivation or a moment of reflection.
